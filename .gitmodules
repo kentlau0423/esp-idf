@@ -5,73 +5,73 @@
 
 [submodule "components/esptool_py/esptool"]
 	path = components/esptool_py/esptool
-	url = https://hub.fastgit.org/espressif/esptool.git
+	url = ../../espressif/esptool.git
 	
 
 [submodule "components/bt/controller/lib"]
 	path = components/bt/controller/lib
-	url = https://hub.fastgit.org/espressif/esp32-bt-lib.git
+	url = ../../espressif/esp32-bt-lib.git
 
 [submodule "components/bootloader/subproject/components/micro-ecc/micro-ecc"]
 	path = components/bootloader/subproject/components/micro-ecc/micro-ecc
-	url = https://hub.fastgit.org/kmackay/micro-ecc.git
+	url = ../../kentlau0423/micro-ecc.git
 
 [submodule "components/coap/libcoap"]
 	path = components/coap/libcoap
-	url = https://hub.fastgit.org/obgm/libcoap.git
+	url = ../../kentlau0423/libcoap.git
 
 [submodule "components/nghttp/nghttp2"]
 	path = components/nghttp/nghttp2
-	url = https://hub.fastgit.org/nghttp2/nghttp2.git
+	url = ../../kentlau0423/nghttp2.git
 
 [submodule "components/libsodium/libsodium"]
 	path = components/libsodium/libsodium
-	url = https://hub.fastgit.org/jedisct1/libsodium.git
+	url = ../../kentlau0423/libsodium.git
 
 [submodule "components/spiffs/spiffs"]
 	path = components/spiffs/spiffs
-	url = https://hub.fastgit.org/pellepl/spiffs.git
+	url = ../../kentlau0423/spiffs.git
 
 [submodule "components/json/cJSON"]
 	path = components/json/cJSON
-	url = https://hub.fastgit.org/DaveGamble/cJSON.git
+	url = ../../kentlau0423/cJSON.git
 
 [submodule "components/mbedtls/mbedtls"]
 	path = components/mbedtls/mbedtls
-	url = https://hub.fastgit.org/espressif/mbedtls.git
+	url = ../../espressif/mbedtls.git
 
 [submodule "components/asio/asio"]
 	path = components/asio/asio
-	url = https://hub.fastgit.org/espressif/asio.git
+	url = ../../espressif/asio.git
 
 [submodule "components/expat/expat"]
 	path = components/expat/expat
-	url = https://hub.fastgit.org/libexpat/libexpat.git
+	url = ../../kentlau0423/libexpat.git
 
 [submodule "components/lwip/lwip"]
 	path = components/lwip/lwip
-	url = https://hub.fastgit.org/espressif/esp-lwip.git
+	url = ../../espressif/esp-lwip.git
 
 [submodule "components/mqtt/esp-mqtt"]
 	path = components/mqtt/esp-mqtt
-	url = https://hub.fastgit.org/espressif/esp-mqtt.git
+	url = ../../espressif/esp-mqtt.git
 
 [submodule "components/protobuf-c/protobuf-c"]
 	path = components/protobuf-c/protobuf-c
-	url = https://hub.fastgit.org/protobuf-c/protobuf-c.git
+	url = ../../kentlau0423/protobuf-c.git
 
 [submodule "components/unity/unity"]
 	path = components/unity/unity
-	url = https://hub.fastgit.org/ThrowTheSwitch/Unity.git
+	url = ../../kentlau0423/Unity.git
 
 [submodule "examples/build_system/cmake/import_lib/main/lib/tinyxml2"]
 	path = examples/build_system/cmake/import_lib/main/lib/tinyxml2
-	url = https://hub.fastgit.org/leethomason/tinyxml2.git
+	url = ../../kentlau0423/tinyxml2.git
 
 [submodule "components/esp_wifi/lib_esp32"]
 	path = components/esp_wifi/lib_esp32
-	url = https://hub.fastgit.org/espressif/esp32-wifi-lib.git
+	url = ../../espressif/esp32-wifi-lib.git
 
 [submodule "components/bt/host/nimble/nimble"]
 	path = components/bt/host/nimble/nimble
-	url = https://hub.fastgit.org/espressif/esp-nimble.git
+	url = ../../espressif/esp-nimble.git
